@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Hi, I'm sleeping for 10 seconds..."
+echo "Hi, I'm sleeping for 5 seconds..."
 
 n=1
 

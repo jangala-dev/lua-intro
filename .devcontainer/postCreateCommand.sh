@@ -1,8 +1,5 @@
 #!/bin/sh
 
-set -o errexit
-set -o nounset
-
 sudo apt update -y
 
 sudo apt install -y apt-utils unzip curl wget git build-essential libreadline-dev dialog libssl-dev

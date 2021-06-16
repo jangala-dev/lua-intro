@@ -5,5 +5,5 @@
 		// "args": { "VARIANT": "buster" }
 	},
     "remoteUser": "vscode",
-    "postCreateCommand": "sh .devcontainer/postCreateCommand.sh"
+    "postCreateCommand": "bash .devcontainer/postCreateCommand.sh"
 }
